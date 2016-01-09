@@ -1,0 +1,28 @@
+name: Xander
+favicon: null
+layout_spectrum: 0.8945869775488973
+typography_spectrum: 0.8153237558435649
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6443345642182976
+  lightness: 0.12215644982643425
+  saturation: 0.16460585943423212
+  rhythmicContrast: 0.7069673126097769
+purpose: []
